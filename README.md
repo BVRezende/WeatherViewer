@@ -1,11 +1,11 @@
 # WeatherViewer
 Aplication for class Prog III
 
-🌦️ WeatherViewer App — Versão Adaptada
+WeatherViewer App — Versão Adaptada
 
 Este projeto é uma releitura moderna do WeatherViewer App (Capítulo 7 do livro Android for Programmers), agora ajustado para consumir uma API REST personalizada hospedada na AWS.
 
-👨‍🎓 Informações do Aluno
+Informações do Aluno
 
 Nome: Bruno Vinicius Rezende
 
@@ -18,23 +18,23 @@ Disciplina: Programação III
 Semestre: 2025/02
 
 
-📘 Sobre o Projeto
+Sobre o Projeto
 
 O app permite consultar a previsão do tempo para os próximos 7 dias de qualquer cidade. Ele serve como base para estudo de conceitos essenciais no desenvolvimento Android, tais como:
 
-🔌 Networking
+ Networking
 
 Consumo de Web Service REST (JSON) usando HttpUrlConnection.
 
-⚙️ Multithreading
+ Multithreading
 
 Execução de tarefas em background com AsyncTask, garantindo uma interface fluida.
 
-🧩 JSON Parsing
+ JSON Parsing
 
 Manipulação de objetos complexos via JSONObject e JSONArray.
 
-🎨 Interface e Experiência do Usuário
+ Interface e Experiência do Usuário
 
 ListView com ArrayAdapter customizado e padrão ViewHolder.
 
@@ -46,7 +46,7 @@ Componentes Material Design: TextInputLayout, FloatingActionButton.
 
 Personalização da barra de status.
 
-🛠️ Como Executar o Projeto (Com Segurança)
+ Como Executar o Projeto (Com Segurança)
 
 Para seguir a boa prática indicada em "Software Engineering Observation 7.1", a chave da API não está incluída no repositório.
 Para rodar o app, faça o seguinte:
@@ -61,7 +61,7 @@ Adicione a linha:
 
 WEATHER_API_KEY=AgentWeather2024_a8f3b9c1d7e2f5g6h4i9j0k1l2m3n4o5p6;
 
-🔁 Alternativa
+ Alternativa
 
 Caso prefira configurar diretamente no código, no arquivo MainActivity.java substitua:
 
