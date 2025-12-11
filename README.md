@@ -17,8 +17,7 @@ Disciplina: Programação III
 
 Semestre: 2025/02
 
-📱 Preview do Aplicativo
-<div align="center"> <img src="print_app.png" alt="Tela do WeatherViewer" width="300"/> </div>
+
 📘 Sobre o Projeto
 
 O app permite consultar a previsão do tempo para os próximos 7 dias de qualquer cidade. Ele serve como base para estudo de conceitos essenciais no desenvolvimento Android, tais como:
